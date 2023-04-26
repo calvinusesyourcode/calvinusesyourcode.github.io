@@ -1,5 +1,5 @@
 # codewars lesson
-This (codewars.com kata)[https://www.codewars.com/kata/514a024011ea4fb54200004b/solutions/python], is a simple exercise getting domain names from a url:
+This [codewars.com kata](https://www.codewars.com/kata/514a024011ea4fb54200004b/solutions/python), is a simple exercise getting domain names from a url:
 ```* url = "http://github.com/carbonfive/raygun" -> domain name = "github"
 * url = "http://www.zombie-bites.com"         -> domain name = "zombie-bites"
 * url = "https://www.cnet.com"                -> domain name = "cnet"
